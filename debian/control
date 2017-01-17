@@ -1,8 +1,8 @@
 Source: 0-toggle
-Section: unknown
+Section: kde
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
-Build-Depends: debhelper (>= 9), pkg-kde-tools, extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, libkf5plasma-dev, libkf5i18n-dev
+Build-Depends: debhelper (>= 9), pkg-kde-tools, extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, libkf5plasma-dev, libkf5i18n-dev, cmake
 Standards-Version: 3.9.8
 Homepage: https://github.com/ds9-extras/0-toggle
 
