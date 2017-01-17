@@ -2,3 +2,4 @@
 %:
 	dh $@ --with kde
 
+override_dh_auto_test:
