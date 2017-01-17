@@ -1,0 +1,13 @@
+Source: 0-toggle
+Section: unknown
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>= 9), pkg-kde-tools, extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, libkf5plasma-dev, libkf5i18n-dev
+Standards-Version: 3.9.8
+Homepage: https://github.com/ds9-extras/0-toggle
+
+Package: plasma-widget-0-toggle
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: zeronet controller plasmoid
+ Plasma widget to control ZeroNet
