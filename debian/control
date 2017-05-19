@@ -8,6 +8,6 @@ Homepage: https://github.com/ds9-extras/0-toggle
 
 Package: plasma-widget-0-toggle
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-msgpack
 Description: zeronet controller plasmoid
  Plasma widget to control ZeroNet
