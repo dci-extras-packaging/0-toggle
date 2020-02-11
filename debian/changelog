@@ -1,5 +1,10 @@
-0-toggle (0-0) UNRELEASED; urgency=medium
+0-toggle (1.0-1) stable; urgency=medium
 
+  [ Rohan Garg ]
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
- -- Rohan Garg <rohan@kde.org>  Tue, 17 Jan 2017 16:11:58 +0100
+  [ Scarlett Moore ]
+  * Upstream release correction.
+  * Fix VCS entries.
+
+ -- Scarlett Moore <sgmoore@kde.org>  Tue, 11 Feb 2020 13:05:34 -0700
